@@ -6,4 +6,4 @@ This is a simple web chatting application
   The whole project was done without any framework, just pure PHP
 
 
-  @pinsoecoder.2022
+  @pinsoecodec.2022
